@@ -1,1 +1,0 @@
-# Menghitung-jarak-fokus-lensa

@@ -1,0 +1,15 @@
+print("Contoh soal : Gunakan operasi perhitungan fisika matematika untuk")
+print("menghitung jarak fokus lensa (f) dalam cm pada persamaan pembuat ")
+print("lensa 1/f = (n-1)[1/R1+1/R2] dengan n adalah indeks bias medium = 1.50 dan")
+print("R1 dan R2 adalah jejari kelengkungan permukaan masing - masing 20 cm dan 18 cm.")
+
+#data - data yang diketahui 
+n = 1.50
+R1 = 20
+R2 = 18 
+#perhitungan jarak fokus lensa
+print("jawab :")
+print ("Rumus mencari jarak fokus = 1/f = (n-1)[1/R1+1/R2]")
+x = (n-1)*(1/R1+1/R2)
+f = 1/x
+print(f)
